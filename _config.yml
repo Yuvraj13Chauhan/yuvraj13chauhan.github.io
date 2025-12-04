@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_5789-removebg-preview.png"
+  avatar           : "Profile1.png"
   name             : "Yuvraj Chauhan"
   pronouns         :  "he/him"  
   bio              : "Quantum Computing Enthusiast | MSc. Physics IIT Delhi"
