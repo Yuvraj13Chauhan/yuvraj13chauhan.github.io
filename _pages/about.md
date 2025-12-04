@@ -34,11 +34,11 @@ I am now preparing for a **PhD in Quantum Computing / Quantum Information Scienc
 
 My research experience spans:
 
-- **High-Energy Physics (HEP):**  
-  Diffractive scattering, dipole models, saturation physics, and Monte-Carlo event generation (Sartre).
-
 - **Quantum Computing & Information:**  
   Quantum algorithms, circuit construction, MBQC / cluster states, photonic QC, and spin-qubit control.
+
+- **High-Energy Physics (HEP):**  
+  Diffractive scattering, dipole models, saturation physics, and Monte-Carlo event generation (Sartre).
 
 - **Scientific & Numerical Computing:**  
   Python, C++, Qiskit, numerical methods, simulation building, and code optimization.
